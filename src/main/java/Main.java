@@ -14,5 +14,6 @@ public class Main {
                 int result =- statement1.executeUpdate("insert into angajat values (null, 'jutest', 1)");
             }
         }
+        System.out.println("test pt git");
     }
 }
